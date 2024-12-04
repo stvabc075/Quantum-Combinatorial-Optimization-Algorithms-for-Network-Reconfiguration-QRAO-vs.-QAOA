@@ -1,5 +1,5 @@
 # Quantum-Combinatorial-Optimization-Algorithms-for-Network-Reconfiguration-QRAO-vs.-QAOA
-Quantum Combinatorial Optimization Algorithms for Network Reconfiguration: Quantum random access optimization (QRAO) vs. Quantum approximate optimization algorithm QAOA)
+Quantum Combinatorial Optimization Algorithms for Network Reconfiguration: Quantum random access optimization (QRAO) vs. Quantum approximate optimization algorithm (QAOA)
 
 This repository contains the supplementary material for the paper entitled "Quantum Combinatorial Optimization Algorithms for Network Reconfiguration: QRAO vs. QAOA" published on IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/10741660
 
