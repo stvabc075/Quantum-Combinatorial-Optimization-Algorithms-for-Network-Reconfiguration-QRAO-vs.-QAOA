@@ -1,0 +1,17 @@
+cvxpy
+docplex
+gurobipy
+math
+matlab
+matplotlib
+mpl_toolkits
+numpy
+pandas
+qiskit
+qrao
+scipy
+src
+sys
+time
+typing
+warnings
